@@ -1,3 +1,3 @@
 # Alurinha
 
-Practicing Flexbox by building a web page about programming courses.
+Practicing Flexbox by building a responsive web page about programming courses.
